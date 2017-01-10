@@ -1,0 +1,14 @@
+{
+  "name": "drupal/multi_somewall",
+  "type": "drupal-module",
+  "description": "Somewall for twitter, facebook, rss and instagram",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/wroxbox/multi_somewall",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/wroxbox/multi_somewall/issues",
+    "source": "https://github.com/wroxbox/multi_somewall"
+  },
+  "require": { }
+}

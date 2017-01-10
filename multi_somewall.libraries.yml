@@ -1,0 +1,15 @@
+socialfeed:
+  version: 1.x
+  header: true
+  css:
+    theme:
+      css/jquery.socialfeed.css: {}
+  js:
+    https://cdn.rawgit.com/jublonet/codebird-js/master/codebird.js: { type: external, minified: false }
+    https://cdn.rawgit.com/olado/doT/master/doT.min.js: { type: external, minified: true }
+    #https://cdn.rawgit.com/moment/moment/master/moment.js: { type: external, minified: false }
+    js/moment-with-locales.min.js: {}
+    js/jquery.socialfeed.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal

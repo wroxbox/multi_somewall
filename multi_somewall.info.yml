@@ -1,0 +1,5 @@
+name: multi_somewall
+type: module
+description: Somewall for twitter, facebook, rss, pinterest, vk, blobspot and instagram
+core: 8.x
+package: Custom
